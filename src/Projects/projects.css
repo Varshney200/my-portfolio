@@ -1,0 +1,36 @@
+.projects{
+    color:#00001a ;
+    text-align: left;
+}
+
+img{
+    height: 20vw;
+    width: 37vw;
+    border-radius: 10px;
+    padding: 0.5vw;
+    border: #00001a solid 0.5px;
+    margin-top: 50px;
+}
+
+.code{
+   background-color: #00001a; 
+   font-size: 20px;
+    color: #e6e6ff;
+    border-radius: 50px;
+}
+
+.code :hover{
+    text-decoration: none;
+    color: #ccccff;
+}
+
+h1{
+    padding: 30px;
+    font-size:2.4vw;
+    text-align: center;
+    font-style: normal;
+}
+
+p{
+    font-size: 1.2vw;
+}

@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  background-image: linear-gradient(to right, #e6e6ff 2vw, white 60vw, #e6e6ff );
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

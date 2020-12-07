@@ -1,0 +1,37 @@
+#footer{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 50px;
+    padding: 20px 0;
+    background-color: #00001a;
+    color: #e6e6ff;
+    margin-top: 60px;
+}
+#ContactInfo{
+    text-align: left;
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+a{
+    text-decoration: none;
+    color: #e6e6ff;
+    font-size: 20px;
+    float: left;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #ccccff;
+}
+
+.title{
+    font-size: 100px;
+    padding: 4%;
+    margin-right: 100px;
+    font-weight: 600;
+}
+
+.contact{
+    margin-left: 40%;
+    line-height: 40px;
+}
